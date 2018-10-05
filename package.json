@@ -1,0 +1,25 @@
+{
+  "name": "scaffolding",
+  "version": "1.0.0",
+  "description": "scaffolding integration",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techcheq/scaffolding.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "scaffolding",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techcheq/scaffolding/issues"
+  },
+  "homepage": "https://github.com/techcheq/scaffolding#readme"
+}
