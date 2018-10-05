@@ -1,0 +1,5 @@
+npm install --save-dev babel-cli babel-preset-env
+
+echo '{
+  "presets": ["env"]
+}' >> .babelrc
